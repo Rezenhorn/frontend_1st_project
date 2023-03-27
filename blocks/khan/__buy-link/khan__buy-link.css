@@ -1,12 +1,12 @@
-.footer__column-link {
-  line-height: 30px;
-  font-size: 18px;
+.khan__buy-link {
+  line-height: 42px;
+  font-size: 30px;
   font-weight: normal;
   text-decoration: none;
-  color: white;
+  color: #2f80ed;
   transition: opacity 0.3s ease-in-out;
 }
 
-.footer__column-link:hover {
+.khan__buy-link:hover {
   opacity: 0.6;
 }

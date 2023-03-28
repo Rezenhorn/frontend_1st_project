@@ -5,4 +5,7 @@
   width: 920px;
   flex-wrap: wrap;
   column-gap: 100px;
+  list-style-type: none;
+  margin-block: 0;
+  margin-inline: 0;
 }
